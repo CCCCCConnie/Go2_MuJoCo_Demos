@@ -35,4 +35,4 @@ Close the viewer before starting another demo. In demos 02 and 03, press `R` to 
 
 ## Robot model
 
-`models/unitree_go2/` is the Unitree Go2 from [Google DeepMind MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie/tree/f3b6013629c7b94f8ee93fd977b161fa8350f9bc/unitree_go2), unchanged, under its BSD-3-Clause [license](models/unitree_go2/LICENSE). Commit and file hashes are in [model_manifest.json](models/model_manifest.json).
+`models/unitree_go2/` is the Unitree Go2 from [Google DeepMind MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie/tree/f3b6013629c7b94f8ee93fd977b161fa8350f9bc/unitree_go2), unchanged, under its BSD-3-Clause [license](models/unitree_go2/LICENSE).

@@ -70,4 +70,4 @@ The summary covers 5 to 10 s. The gait comparison plot shows forward position, b
 
 ## Model
 
-The Go2 model is from [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) (BSD-3-Clause). See the [model license](../models/unitree_go2/LICENSE) and [file hashes](../models/model_manifest.json).
+The Go2 model is from [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) (BSD-3-Clause). See the [model license](../models/unitree_go2/LICENSE).
